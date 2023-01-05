@@ -1,0 +1,19 @@
+[
+    {
+        "user": "meghna",
+        "pwd": "$2b$10$zhEj1WrCXk6tSMMVvkUg7eWRj9nsGFoOiVablQooKZa2ZgwjG3VKe",
+        "roles": {
+            "user": 2003,
+            "Editor": 1000
+        },
+        "RefreshToken": ""
+    },
+    {
+        "user": "priyanshu",
+        "pwd": "$2b$10$I42ElOrWewY.WK4GUZNvyOF/Ou8cIJaTZ0.JfCBu7iKEf0ksi8a5O",
+        "roles": {
+            "Admin": 2222
+        },
+        "RefreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoicHJpeWFuc2h1IiwiaWF0IjoxNjcyOTIzODg5LCJleHAiOjE2NzMwMTAyODl9.PFpNxvlyZW1fQHXW5dJtz5pL2v7KSM06vZcsniiwV7s"
+    }
+]

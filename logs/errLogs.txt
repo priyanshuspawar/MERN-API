@@ -1,0 +1,55 @@
+033323	06:33:16	ecce7553-91af-49c9-88b0-ffae1d6a95c4	undefined	undefined
+033423	06:34:28	db5c00f5-a1b9-4dae-8ab4-7b1a880f1079	Error	not allowed by CORS
+033423	06:34:30	ee91eb73-17b4-4255-a4c3-266f489c900c	Error	not allowed by CORS
+041623	01:16:48	e808df3e-b1eb-49ed-aebb-01fa0ae56739	Error	ENOENT: no such file or directory, stat 'C:\Users\ACER\Desktop\Node Js\server routes\pages\subdir\test.html'
+041623	01:16:55	89887e17-7bdf-41dc-bdc9-a2d149ec7cf8	Error	ENOENT: no such file or directory, stat 'C:\Users\ACER\Desktop\Node Js\server routes\pages\subdir\test.html'
+042623	01:26:45	30e717a7-56f9-4760-be5d-1f50308315e9	Error	ENOENT: no such file or directory, stat 'C:\Users\ACER\Desktop\Node Js\server routes\routes\pages\index.html'
+042623	01:26:53	a3acd727-7dce-4e6d-8964-6bee9002fcb9	Error	ENOENT: no such file or directory, stat 'C:\Users\ACER\Desktop\Node Js\server routes\routes\pages\index.html'
+044823	06:48:46	85c4fa20-ad8b-4261-88c0-a3261269e129	ReferenceError	req is not defined
+054223	02:42:44	ddbc8044-ad81-4b4b-8b38-15edaac9e7da	Error	Cannot set headers after they are sent to the client
+054223	02:42:46	7663cf8c-d919-4d82-bc11-2e159cacccc5	Error	Cannot set headers after they are sent to the client
+054223	02:42:54	6fcb57ee-acea-4faa-af72-7c00fe39405b	Error	Cannot set headers after they are sent to the client
+054223	02:42:55	3c51d65a-a7ee-4925-905a-0b14884a6bfc	Error	Cannot set headers after they are sent to the client
+054323	02:43:12	dad3b723-7edb-466d-bbdd-1a1d36848b3b	Error	Cannot set headers after they are sent to the client
+054323	02:43:18	02834cb0-253a-423e-888c-b540cb83f0d2	Error	Cannot set headers after they are sent to the client
+054323	02:43:19	3875e1db-f4f3-4eab-b1a6-80c4d9be6246	Error	Cannot set headers after they are sent to the client
+054523	02:45:57	08a35475-fbe9-450e-8346-547de09ea596	Error	Cannot set headers after they are sent to the client
+054623	02:46:02	7a83b2c2-c513-4655-9f0e-23ac94f60712	Error	Cannot set headers after they are sent to the client
+054623	02:46:03	23e12063-ecdc-44b4-bd02-b9a0fac04b11	Error	Cannot set headers after they are sent to the client
+054623	02:46:04	bbb0be40-ef2b-41cb-b6f8-f72ad813fc5c	Error	Cannot set headers after they are sent to the client
+054623	02:46:05	af02cd4d-d4c9-47d1-b6ab-fe54d4034b46	Error	Cannot set headers after they are sent to the client
+054723	02:47:47	c5ef5d41-3ddf-4ef6-b25d-3efaec49afe2	Error	Cannot set headers after they are sent to the client
+054923	02:49:24	94db2042-8b06-40c6-95f3-6b61870d9a20	Error	Cannot set headers after they are sent to the client
+055223	03:52:40	bd934707-a3f0-4fb4-ba90-6992f95781c2	TypeError	Cannot read properties of undefined (reading 'jwt')
+055523	03:55:11	90dcdfec-7e64-4124-b2d0-e0baa23b8567	TypeError	Cannot read properties of undefined (reading 'jwt')
+055523	03:55:12	cca8d4ef-a75a-4a07-b856-3340e44d8a72	TypeError	Cannot read properties of undefined (reading 'jwt')
+055523	03:55:49	08e8fed8-29cf-45e5-bb30-64354e3b65e6	TypeError	Cannot read properties of undefined (reading 'jwt')
+055623	03:56:31	9ee326b3-ee56-4649-b82f-ca0899bd9b02	ReferenceError	cookie is not defined
+055723	03:57:14	37988d2a-f601-4d20-a46c-b04d3c39172c	ReferenceError	cookie is not defined
+055823	03:58:59	e4767f7e-e2ba-4cf6-abf7-a944fec84529	ReferenceError	cookie is not defined
+055923	03:59:01	3b1467d1-0122-4169-a0d2-a8a6db82f4c9	ReferenceError	cookie is not defined
+055923	03:59:01	13b426ff-aae1-40ce-8624-b092fcee285f	ReferenceError	cookie is not defined
+055923	03:59:01	2333dc5f-7e17-40b2-a9d3-d9eb27076d56	ReferenceError	cookie is not defined
+055923	03:59:02	a684f17f-52f6-4386-b5a9-389a3d2de0df	ReferenceError	cookie is not defined
+055923	03:59:02	bce9fda4-cb1c-4a5f-9996-5bdc97bd5b90	ReferenceError	cookie is not defined
+055923	03:59:02	dc95321f-5e89-4ce2-96ae-adb76f508bae	ReferenceError	cookie is not defined
+055923	03:59:03	bb653dc5-b1ba-4c56-8e08-c154c4d9f1b2	ReferenceError	cookie is not defined
+050023	04:00:34	fa5311e3-79d5-4f2e-8980-6c811796ad34	ReferenceError	cookie is not defined
+050023	04:00:36	c9d79951-0949-4fc7-b5cf-33596e4b1a4f	ReferenceError	cookie is not defined
+050023	04:00:37	7f1e890e-35bc-47e2-908a-39cfa31042ca	ReferenceError	cookie is not defined
+050123	04:01:06	3cad3a7e-957a-4403-a29a-71daee8bd035	ReferenceError	cookie is not defined
+050123	04:01:29	0d80af63-44fd-44ca-bdd0-a38501336d63	TypeError	Cannot read properties of undefined (reading 'jwt')
+050123	04:01:48	ae0cb55a-504a-4bd7-bac8-77eccdea4c78	ReferenceError	cookie is not defined
+053423	04:34:33	88391f6c-5205-4bdb-b402-d8142f575c42	Error	Cannot set headers after they are sent to the client
+053923	04:39:34	a885c4c4-b0e5-4446-baf8-d77dc7a0255c	Error	Cannot set headers after they are sent to the client
+050823	06:08:50	61edf515-b8eb-4b04-b47b-4f0ca3bc8d53	Error	Cannot set headers after they are sent to the client
+050923	06:09:57	3c2f2895-1216-4cec-a30d-fa8fcf756371	Error	Cannot set headers after they are sent to the client
+051023	06:10:47	3f84ea96-ba1f-4d74-876a-5e604c5e8fcd	Error	Cannot set headers after they are sent to the client
+051123	06:11:47	a8a72786-c040-491c-9ca3-8feff3f01ee0	Error	Cannot set headers after they are sent to the client
+051423	06:14:41	1d49e9d3-fbe4-4164-932d-d6546a00622e	Error	Cannot set headers after they are sent to the client
+051523	06:15:24	151485e5-1354-4892-be4c-50610668ac1a	Error	Cannot set headers after they are sent to the client
+051523	06:15:53	2fe5f950-cca4-45ef-a175-f75e937502d1	ReferenceError	user is not defined
+051723	06:17:52	d4a75f52-e287-46d9-ad71-3b8a42331a73	Error	Cannot set headers after they are sent to the client
+053223	06:32:01	ee5a57ef-d40c-4fb2-b3aa-275a5cebe37f	Error	Cannot set headers after they are sent to the client
+060823	03:08:33	2cee8777-ebfd-4be0-bed9-f7ecc80f3fc1	TypeError	Cannot convert undefined or null to object
+065123	03:51:07	4fd33a88-eb8a-49ba-9842-c0bc5e664f52	Error	Cannot set headers after they are sent to the client
